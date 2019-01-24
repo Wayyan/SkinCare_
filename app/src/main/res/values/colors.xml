@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196f3</color>
+    <color name="colorPrimaryDark">#1976d2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_btncpt_normal">#3f51b5</color>
+    <color name="color_btncpt_press">#303f9f</color>
+    <color name="color_bg">#B0BEC5</color>
+    <color name="no_color">#00ffffff</color>
+</resources>

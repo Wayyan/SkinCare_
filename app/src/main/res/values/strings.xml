@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Skin Care</string>
+    <string name="op_one">Single Mode</string>
+    <string name="op_two">Compare Mode</string>
+    <string name="skin_error">Be Sure your skin,try Again!!</string>
+    <string name="skin_one">You need SPF 30+ everyday.You tend to have very pale, porcelain or ivory toned skin, like The Help actress Emma Stone. You always bum in the sun,and your skin could have a naturally reddish undertone. Your eyes are most likely blue, gray or green and you might rock a head of gorgeous blonde or red hair. Plus: Anne Hathaway, Cate Blanchette, Prince Harry, Liam Way</string>
+    <string name="skin_two">You need SPF 30+ everyday. With Type II skin, you have a fair or cream-colored complexion,often coupled with subtle beige undertones ike actress Lucy Liu. Your eye and hair colour could fall anywhere along the range of light to dark,and you might ave a handful of cute freckles as well. Although you tend o burn in the sun, you are able to tan occasionally. Plus:Drew Barrymore, Jennifer Aniston, Brad Pitt, Zac Efron</string>
+    <string name="skin_three">You need SPF 30+ everyday. Like top actress Sandra Bullock , people with Type III skin are often described as having a golden, honey-hued skin one. Women and men with light olive coloring also fit into this skin type. At the beginning of summer, you may find that you ourn easily,but you can gradually build a sun-kissed glow by the end of the season. Plus: Demi Moore, Lisa Ling, John Stamos, Matthew McConaughey Way</string>
+    <string name="skin_four">You need SPF 15+ everyday. Just like Slumdog Millionaire star Freida Pinto ,your skin is a gorgeous caramel tone, and tans quickly without burning With Type IV skin, you most likely share her dark hair and probably have dark eyes that range from hazel to ebony as Plus: Eva Mendez, Jessica Alba, Taylor Lautner, Dev Patel Way</string>
+    <string name="skin_five">You need SPF 15+ outside Patel of you have Type V skin,your skin tone matches that of ward-winning singer songwriter Beyonc?,and might range rom radiant bronze to a rich brown. Like Beyonc? ,both your eyes and hair are dark. You experience sun bums very rarely,and generally tan quickly and easily. Plus:Mindy Kaling, Tyra Banks, Barack Obama, Craig David Way</string>
+    <string name="skin_six">You need SPF 15+ outside.Like supermodel Naomi Campbell,who has graced over 400 magazine covers,your skin tone falls in the range of deep mahogany to espresso. You almost never have sunburns,and tan quickly and deeply during the summer.With Type VI skin, you have both dark hair and dark eyes. Plus: Alek Wek, Michelle Obama, Kanye West, 50 Cent</string>
+    <string name="txt_in_capture">Pure Camera.(Affect Level 0).</string>
+</resources>
